@@ -1,9 +1,10 @@
 # diginamic-db-conception
 
+## TP réalisé avec Christ Mougani
 
-### Conception d’une base de données de jeu vidéo
+## Conception d’une base de données de jeu vidéo
 
-## Consignes
+### Consignes
 Vous êtes mandaté pour créer une base de données pour les serveurs d’un jeu
 vidéo tel que Fall Guys, Among Us ou Golf With Your Friends. Si l’inspiration
 vous manque, faites au plus simple.
