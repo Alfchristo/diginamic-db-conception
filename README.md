@@ -68,6 +68,7 @@ a_un_Rang = (#id_joueur, #id_partie, rang INT, scores_globale INT);
 
 ### SQL
 
+```SQL
 CREATE TABLE Accessoires (
   Id_acces    int(10) NOT NULL AUTO_INCREMENT, 
   type_acces  varchar(65) NOT NULL, 
